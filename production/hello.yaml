@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: blackstile/gitops:hellov1.2
+        image: blackstile/gitops:hellov1.3
